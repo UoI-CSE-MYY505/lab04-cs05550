@@ -4,7 +4,7 @@ import sys
 # caution: path[0] is reserved for script path (or '' in REPL)
 sys.path.insert(1, '../myy505Utils')
 
-from myy505TesterLib import *
+from myy505TesterLib import *  
 
 newLabels = {
     "maria"    : '.string "Maria"',
